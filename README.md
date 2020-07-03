@@ -1,16 +1,14 @@
-### Hi there 👋
+### ChihLun.Kang <a href="https://www.linkedin.com/in/chih-lun-kang-47094115">:video_game:</a> 
 
-<!--
-**kangchihlun/kangchihlun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently working on : golang with microservice
+- How to reach me: ...<a href="mailto:KangChihLun@gmail.com">:e-mail:</a> <a href="tel:886918113271">:iphone:</a>
 
-Here are some ideas to get you started:
+### SKILLS SET
+- C++ 
+- C#
+- Javascript(ES6)/Node.js
+- Python
+- knowledge of blockchain
+- 3D MATH
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 當你堅持你的堅持，別人就會懷疑他的懷疑
