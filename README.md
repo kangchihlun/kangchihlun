@@ -16,7 +16,8 @@
     <a href="https://github.com/LeapFi/fee_estimation/blob/main/fee_estimation.js">Uniswap fee estimation</a> and
     <a href="https://medium.com/@leapfi/estimating-uniswap-fees-on-arbitrum-a-fee-income-calculation-guide-527fe7283fd2">article</a>
     </br>
-    <a href="https://app.leapfi.io/">FullStack Dapp Simulator</a>
+    <a href="https://app.leapfi.io/">FullStack Dapp Simulator</a></br>
+    <a href="https://app.nightingaleai.fund/">NightingaleAI</a>
   </p>
 </details>
 
