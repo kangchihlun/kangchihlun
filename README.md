@@ -17,7 +17,7 @@
     <a href="https://medium.com/@leapfi/estimating-uniswap-fees-on-arbitrum-a-fee-income-calculation-guide-527fe7283fd2" target="_blank" >article</a>
     </br>
     <a href="https://app.leapfi.io/" target="_blank">FullStack Dapp Simulator</a></br>
-    <a href="https://www.nightingaleai.fund/" target="_blank" >NightingaleAI</a>
+    <a href="https://app.nightingaleai.fund/" target="_blank" >NightingaleAI</a>
   </p>
 </details>
 
