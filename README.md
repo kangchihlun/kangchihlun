@@ -1,7 +1,7 @@
 ### ChihLun.Kang 
 
 <details open> 
-  <summary><h2>📘 Projects </h2></summary>
+  <summary><h2>📘 Projects List</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -17,7 +17,7 @@
     <a href="https://medium.com/@leapfi/estimating-uniswap-fees-on-arbitrum-a-fee-income-calculation-guide-527fe7283fd2" target="_blank" >article</a>
     </br>
     <a href="https://app.leapfi.io/" target="_blank">FullStack Dapp Simulator</a></br>
-    <a href="https://app.nightingaleai.fund/" target="_blank" >NightingaleAI</a>
+    <a href="https://cryptogamma.io/" target="_blank" >Cryptogamma</a>
   </p>
 </details>
 
